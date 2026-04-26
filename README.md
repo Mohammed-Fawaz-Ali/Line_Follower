@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/1d37ee43-50cd-4be3-9c4a-8b36b21f00f8
+
 # 🤖 Line Follower Robot — Arduino Nano
 
 A clean, well-documented line follower robot using **2 IR sensors** and an **Arduino Nano**. Follows a black line on a white surface using bang-bang control with a lost-line recovery state machine.
@@ -22,7 +26,11 @@ A clean, well-documented line follower robot using **2 IR sensors** and an **Ard
 
 **Output video — robot in action:**
 
-https://github.com/user-attachments/assets/Video
+
+
+https://github.com/user-attachments/assets/70d2439e-7688-4f23-a418-ce6f39a6ad68
+
+
 
 ---
 
